@@ -1,0 +1,4 @@
+#Sun Jul 15 23:35:57 GMT+01:00 2018
+base.0=C\:\\Users\\Bro Chijioke\\mobile\\unizikScreeningSci018\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\Bro Chijioke\\mobile\\unizikScreeningSci018\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
